@@ -1,7 +1,8 @@
 # CG-Project
 Team Members
 
-     Name                   Roll No. 
-1. Yash Jain                20UCS237
-2. KRISHAN KUMAR AGRAWAL    20UCS100
-3. Joshal Joshi             20UCS092
+       Name                    Roll No. 
+      Yash Jain                20UCS237
+      Krishan Kumar Agrawal    20UCS100
+      Joshal Joshi             20UCS092
+   
